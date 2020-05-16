@@ -58,7 +58,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR blue][B]KodiTVR-Portugal 1[/COLOR][/B]</name>
 <thumbnail>https://ia801502.us.archive.org/33/items/Cinema.movies/tv.Portugal.png</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/KodiTVR-add-on/Team-KodiTVR/master/portugallist-0.M3U</externallink>
 <fanart>https://ia801502.us.archive.org/33/items/Cinema.movies/canais.fanart.jpg</fanart>
 <info>KodiTVR</info>
 </channel>
