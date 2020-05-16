@@ -40,7 +40,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR blue][B]KodiTVR-Canais[/COLOR][/B]</name>
 <thumbnail>https://ia601406.us.archive.org/10/items/entreaqui.koditvr/sport.KodiTVR.jpg.jpg</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/KodiTVR-add-on/Team-KodiTVR/master/koditvrlist-canais.M3U</externallink>
 <fanart>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/portugal.canais.jpg</fanart>
 <info>KodiTVR</info>
 </channel>
