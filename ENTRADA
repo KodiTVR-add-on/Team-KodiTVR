@@ -1,0 +1,46 @@
+<channels>
+<channel>
+<name>[COLOR green] <<< Online KodiTVR-canais >>> [/COLOR]</name>
+<thumbnail>https://ia801502.us.archive.org/33/items/Cinema.movies/tv.Portugal.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/KodiTVR-add-on/Canais/master/PT-canais.M3U</externallink>
+<fanart>https://ia601406.us.archive.org/10/items/entreaqui.koditvr/sport.KodiTVR.jpg.jpg</fanart>
+<info>[COLOR yellow] - KodiTVR-canais - [/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>
+[COLOR yellow] >>>KodiTVR-canais-Portugal<<< [/COLOR]</name>
+<thumbnail>https://ia801400.us.archive.org/3/items/fanart.update/bandeiras.pa%C3%ADses.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/KodiTVR-add-on/Canais/master/koditvrlist.M3U</externallink>
+<fanart>https://ia801502.us.archive.org/33/items/Cinema.movies/canais.fanart.jpg</fanart>
+<info>[COLOR yellow] - KodiTVR-canais - [/COLOR]</info>
+
+<channels>
+<channel>
+<name>
+[COLOR yellow] >>>KodiTVR-canais-Desporto<<< [/COLOR]</name>
+<thumbnail>https://ia801400.us.archive.org/3/items/fanart.update/Sports-all.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/KodiTVR-add-on/Canais/master/koditvrlist.ts</externallink>
+<fanart>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/icon-kodi.jpg</fanart>
+<info>[COLOR yellow] - KodiTVR-canais - [/COLOR]</info>
+ 
+<channels>
+<channel>
+<name>[COLOR red] >>>KodiTVR-Filmes(Elementum)<<< [/COLOR]</name>
+<thumbnail>https://ia801502.us.archive.org/33/items/Cinema.movies/cinema.fanart.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/KodiTVR-add-on/Canais/master/Filmes%20faroeste%204</externallink>
+<fanart>https://archive.org/download/fanart.update/fanart.update.jpg</fanart>
+<info>[COLOR yellow] - KodiTVR-canais - [/COLOR]</info>
+</channel>
+</channels>
+ 
+<channels>
+<channel>
+<name>
+[COLOR yellow] >>>KodiTVR-canais-Filmes.m3u<<< [/COLOR]</name>
+<thumbnail>https://ia801502.us.archive.org/33/items/Cinema.movies/cine.filmes.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/KodiTVR-add-on/Canais/master/koditvr-canais.filmes.M3U</externallink>
+<fanart>https://archive.org/download/Cinema.movies/Cinema.movies.jpg</fanart>
+<info>[COLOR yellow] - KodiTVR-canais - [/COLOR]</info>
