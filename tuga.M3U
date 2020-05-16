@@ -1,0 +1,213 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name=" PORTUGAL " tvg-logo="https://cld.pt/dl/download/82931595-e131-4779-b1ec-91790c6ac4a1/PORTUGAL%202.jpg" group-title="",[B][COLOR green]===== POR[/COLOR][COLOR yellow]TU[/COLOR][COLOR red]GAL =====[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=KodiTVR&streamtype=TSDOWNLOADER&amp;url=http://perfect.ddnsfree.com:8000/D
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+#EXTINF:-1 tvg-logo="https://dl-web.meocloud.pt/dlweb/K3PkFUUgBQn222qGZanapA/download/KodiTVR/PORTUGAL%202.jpg?public=82931595-e131-4779-b1ec-91790c6ac4a1" group-title="Portugal",[B][COLOR green]Hino[/COLOR][COLOR yellow] Nacional[/COLOR][COLOR red] "A PORTUGUESA" [/B][/COLOR]
+https://upload.wikimedia.org/wikipedia/commons/5/58/A_Portuguesa.ogg
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/dced6044-624e-462e-9299-f08cc7c02a6a/actualizado.jpg" tvg-logo="" group-title="",[B][COLOR green]===== [/COLOR][COLOR yellow]ACTUALIZADO EM 07.04.2020[/COLOR][COLOR green] =====[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=KodiTVR&streamtype=HLSRETRY&amp;url=http://orbit-iptv.com:2500/live
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://dl-web.meocloud.pt/dlweb/K3PkFUUgBQn222qGZanapA/download/KodiTVR/PORTUGAL%202.jpg?public=82931595-e131-4779-b1ec-91790c6ac4a1" group-title="Portugal",[B][COLOR green]Hino[/COLOR][COLOR yellow] Nacional[/COLOR][COLOR red] "A PORTUGUESA" [/B][/COLOR]
+https://upload.wikimedia.org/wikipedia/commons/5/58/A_Portuguesa.ogg
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="PT-L: RTP 1 FHD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT-L: RTP 1 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/145.m3u8
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="PT-L: RTP 2 FHD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT-L: RTP 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/146.m3u8
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="PT:-L SIC FHD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT:-L SIC FHD
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/147.m3u8
+#EXTINF:-1 tvg-id="TVI.pt" tvg-name="PT-L: TVI FHD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT-L: TVI FHD
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/148.m3u8
+#EXTINF:-1 tvg-id="RTP3.pt" tvg-name="PT-L: RTP 3 FHD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT-L: RTP 3 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/149.m3u8
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT-L: SPORT TV 1 FHD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT-L: SPORT TV 1 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/151.m3u8
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT-L: SPORT TV 2 FHD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT-L: SPORT TV 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/152.m3u8
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT-L: SPORT TV 3 FHD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT-L: SPORT TV 3 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/153.m3u8
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT-L: SPORT TV 4 FHD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT-L: SPORT TV 4 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/154.m3u8
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT-L: SPORT TV 5 FHD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT-L: SPORT TV 5 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/155.m3u8
+#EXTINF:-1 tvg-id="NBA.pt" tvg-name="PT-L: SPORT TV NBA FHD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT-L: SPORT TV NBA FHD
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/156.m3u8
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT-L: ELEVEN SPORT 1 FHD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT-L: ELEVEN SPORT 1 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/157.m3u8
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT-L: ELEVEN SPORT 2 FHD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT-L: ELEVEN SPORT 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/158.m3u8
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT-L: ELEVEN SPORT 3 FHD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT-L: ELEVEN SPORT 3 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/159.m3u8
+#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT: ELEVEN SPORT 4 FHD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT: ELEVEN SPORT 4 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/160.m3u8
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="PT-L: Benfica TV FHD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT-L: Benfica TV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/161.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT-L: Canal 11 FHD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT-L: Canal 11 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/162.m3u8
+#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="PT: SIC Mulher FHD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT: SIC Mulher FHD
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/163.m3u8
+#EXTINF:-1 tvg-id="TVIReal.pt" tvg-name="PT: TVI Reality" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT: TVI Reality
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/164.m3u8
+#EXTINF:-1 tvg-id="SyFy.pt" tvg-name="PT-L: Syfy FHD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT-L: Syfy FHD
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/165.m3u8
+#EXTINF:-1 tvg-id="Cinemundo.pt" tvg-name="PT-L: Cinemundo FHD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT-L: Cinemundo FHD
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/166.m3u8
+#EXTINF:-1 tvg-id="hollywood.pt" tvg-name="PT-L: Hollywood FHD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT-L: Hollywood FHD
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/168.m3u8
+#EXTINF:-1 tvg-id="tvc1.pt" tvg-name="PT-L: TVC 1 FHD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT-L: TVC 1 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/169.m3u8
+#EXTINF:-1 tvg-id="tvc2.pt" tvg-name="PT-L: TVC 2 FHD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT-L: TVC 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/170.m3u8
+#EXTINF:-1 tvg-id="tvc3.pt" tvg-name="PT-L: TVC 3 FHD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT-L: TVC 3 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/171.m3u8
+#EXTINF:-1 tvg-id="tvc4.pt" tvg-name="PT-L: TVC 4 FHD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT-L: TVC 4 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/172.m3u8
+#EXTINF:-1 tvg-id="TVSeries.pt" tvg-name="PT: TVSeries FHD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT: TVSeries FHD
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/173.m3u8
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="PT-L: Fox FHD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT-L: Fox FHD
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/174.m3u8
+#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="PT-L: Fox Crime FHD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT-L: Fox Crime FHD
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/175.m3u8
+#EXTINF:-1 tvg-id="FOXComedy.pt" tvg-name="PT-L: Fox Comedy FHD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT-L: Fox Comedy FHD
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/176.m3u8
+#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="PT-L: Fox Life FHD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT-L: Fox Life FHD
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/177.m3u8
+#EXTINF:-1 tvg-id="FoxMovies.pt" tvg-name="PT-L: Fox Movies FHD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT-L: Fox Movies FHD
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/178.m3u8
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="PT-L: AXN FHD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT-L: AXN FHD
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/179.m3u8
+#EXTINF:-1 tvg-id="AXNWhite.pt" tvg-name="PT-L: AXN White FHD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT-L: AXN White FHD
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/180.m3u8
+#EXTINF:-1 tvg-id="AXNBlack.pt" tvg-name="PT-L: AXN Black FHD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT-L: AXN Black FHD
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/181.m3u8
+#EXTINF:-1 tvg-id="AMC.pt" tvg-name="PT:-L: Amc FHD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT:-L: Amc FHD
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/182.m3u8
+#EXTINF:-1 tvg-id="Motorvision.pt" tvg-name="PT: Motorvision" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT: Motorvision
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/183.m3u8
+#EXTINF:-1 tvg-id="discoverychannel.pt" tvg-name="PT-L: Discovery FHD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT-L: Discovery FHD
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/184.m3u8
+#EXTINF:-1 tvg-id="investigationdiscovery.pt" tvg-name="PT: ID Investigation Discovery FHD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT: ID Investigation Discovery FHD
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/185.m3u8
+#EXTINF:-1 tvg-id="CrimeInvestigation.pt" tvg-name="PT-L: Crime Investigation" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT-L: Crime Investigation
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/186.m3u8
+#EXTINF:-1 tvg-id="canalpanda.pt" tvg-name="PT-L: Canal Panda" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT-L: Canal Panda
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/187.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.pt" tvg-name="PT: Nickelodeon" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT: Nickelodeon
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/188.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.pt" tvg-name="PT-L: Disney Junior" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT-L: Disney Junior
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/189.m3u8
+#EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="PT: Disney Channel FHD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT: Disney Channel FHD
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/190.m3u8
+#EXTINF:-1 tvg-id="cartoon.pt" tvg-name="PT-L: Cartoon Network HD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT-L: Cartoon Network HD
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/191.m3u8
+#EXTINF:-1 tvg-id="PandaBiggs.pt" tvg-name="PT:-L: Biggs" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT:-L: Biggs
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/192.m3u8
+#EXTINF:-1 tvg-id="odisseia.pt" tvg-name="PT-L: Odisseia FHD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT-L: Odisseia FHD
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/193.m3u8
+#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="PT-L: CMTV FHD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT-L: CMTV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/194.m3u8
+#EXTINF:-1 tvg-id="ABolaTV.pt" tvg-name="PT: Abola TV" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT: Abola TV
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/195.m3u8
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="PT: Porto Canal" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT: Porto Canal
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/196.m3u8
+#EXTINF:-1 tvg-id="SPORTINGTV.pt" tvg-name="PT:-L Sporting TV FHD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT:-L Sporting TV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/197.m3u8
+#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-name="PT: RTP Africa" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT: RTP Africa
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/198.m3u8
+#EXTINF:-1 tvg-id="sicradical.pt" tvg-name="PT-L: Sic Radical FHD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT-L: Sic Radical FHD
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/199.m3u8
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="PT-L: Sic Noticias FHD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT-L: Sic Noticias FHD
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/200.m3u8
+#EXTINF:-1 tvg-id="SicCaras.pt" tvg-name="PT: Sic Caras FHD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT: Sic Caras FHD
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/201.m3u8
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-name="PT-L: TVI 24" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT-L: TVI 24
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/202.m3u8
+#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-name="PT: TVI FICCAO" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT: TVI FICCAO
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/203.m3u8
+#EXTINF:-1 tvg-id="TLC.pt" tvg-name="PT-L: TLC" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT-L: TLC
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/204.m3u8
+#EXTINF:-1 tvg-id="KombatSport.pt" tvg-name="PT: Kombat Sport" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT: Kombat Sport
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/205.m3u8
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-name="PT: RTP ACORES" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT: RTP ACORES
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/206.m3u8
+#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-name="PT: RTP MADEIRA" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT: RTP MADEIRA
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/207.m3u8
+#EXTINF:-1 tvg-id="rtpmemoria.pt" tvg-name="PT: RTP MEMORIA" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT: RTP MEMORIA
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/208.m3u8
+#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="PT: 24 KITCHEN HD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT: 24 KITCHEN HD
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/209.m3u8
+#EXTINF:-1 tvg-id="TVGlobo.pt" tvg-name="PT: GLOBO" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT: GLOBO
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/210.m3u8
+#EXTINF:-1 tvg-id="TVGlobo.pt" tvg-name="PT: GLOBO PORTUGAL HD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT: GLOBO PORTUGAL HD
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/211.m3u8
+#EXTINF:-1 tvg-id="tvrecord.pt" tvg-name="PT: TV RECORD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT: TV RECORD
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/212.m3u8
+#EXTINF:-1 tvg-id="SportTVplus.pt" tvg-name="PT: SPORT TV+   HD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT: SPORT TV+   HD
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/213.m3u8
+#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT-L: ELEVEN SPORTS 5 FHD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT-L: ELEVEN SPORTS 5 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/214.m3u8
+#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT-L: ELEVEN SPORTS 6 FHD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT-L: ELEVEN SPORTS 6 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/215.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="PT: EUROSPORT 1 HD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT: EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/216.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.pt" tvg-name="PT: EUROSPORT 2" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT: EUROSPORT 2
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/217.m3u8
+#EXTINF:-1 tvg-id="CacaVision.pt" tvg-name="PT: CACAVISION" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT: CACAVISION
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/218.m3u8
+#EXTINF:-1 tvg-id="cazaepesca.pt" tvg-name="PT: CACA E PESCA" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT: CACA E PESCA
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/219.m3u8
+#EXTINF:-1 tvg-id="TorosTV.pt" tvg-name="PT: TOROS TV" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT: TOROS TV
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/220.m3u8
+#EXTINF:-1 tvg-id="SicK.pt" tvg-name="PT-L: SIC K" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT-L: SIC K
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/221.m3u8
+#EXTINF:-1 tvg-id="CanalQ.pt" tvg-name="PT: CANAL Q" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT: CANAL Q
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/222.m3u8
+#EXTINF:-1 tvg-id="nationalgeographic.pt" tvg-name="PT-L: NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT-L: NATIONAL GEOGRAPHIC HD
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/223.m3u8
+#EXTINF:-1 tvg-id="NatGeoWild.pt" tvg-name="PT-L: NAT GEO WILD HD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT-L: NAT GEO WILD HD
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/224.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT-L: VH1" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT-L: VH1
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/228.m3u8
+#EXTINF:-1 tvg-id="mtvportugal.pt" tvg-name="PT-L: MTV PORTUGAL" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT-L: MTV PORTUGAL
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/227.m3u8
+#EXTINF:-1 tvg-id="MCMPop.pt" tvg-name="PT: MCM POP" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT: MCM POP
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/226.m3u8
+#EXTINF:-1 tvg-id="FuelTV.pt" tvg-name="PT: FUEL TV" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT: FUEL TV
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/225.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL HISTORIA" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT: CANAL HISTORIA
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/466.m3u8
+#EXTINF:-1 tvg-id="JimJam.pt" tvg-name="PT: JIM JAM" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT: JIM JAM
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/465.m3u8
+#EXTINF:-1 tvg-id="TraceTV.pt" tvg-name="PT-L: TRACE URBAN" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT-L: TRACE URBAN
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/464.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT-L: TRACE TOCA" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT-L: TRACE TOCA
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/463.m3u8
+#EXTINF:-1 tvg-id="mcmtop.pt" tvg-name="PT: MCM TOP" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT: MCM TOP
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/462.m3u8
+#EXTINF:-1 tvg-id="NOSStudios.pt" tvg-name="PT-L: NOS STUDIO FHD" tvg-logo="" group-title="MEO/ZON", [B][COLOR red]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] PT-L: NOS STUDIO FHD
+plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://lusonet.ddns.net:8007/live/momozart2014/momozart2014skype/457.m3u8

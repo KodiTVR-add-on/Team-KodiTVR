@@ -1,0 +1,590 @@
+#EXTM3U
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name=" PORTUGAL " tvg-logo="https://cld.pt/dl/download/82931595-e131-4779-b1ec-91790c6ac4a1/PORTUGAL%202.jpg" group-title="",[B][COLOR green]===== POR[/COLOR][COLOR yellow]TU[/COLOR][COLOR red]GAL =====[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=KodiTVR&streamtype=TSDOWNLOADER&amp;url=http://perfect.ddnsfree.com:8000/D
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+#EXTINF:-1 tvg-logo="https://dl-web.meocloud.pt/dlweb/K3PkFUUgBQn222qGZanapA/download/KodiTVR/PORTUGAL%202.jpg?public=82931595-e131-4779-b1ec-91790c6ac4a1" group-title="Portugal",[B][COLOR green]Hino[/COLOR][COLOR yellow] Nacional[/COLOR][COLOR red] "A PORTUGUESA" [/B][/COLOR]
+https://upload.wikimedia.org/wikipedia/commons/5/58/A_Portuguesa.ogg
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/dced6044-624e-462e-9299-f08cc7c02a6a/actualizado.jpg" tvg-logo="" group-title="",[B][COLOR green]===== [/COLOR][COLOR yellow]ACTUALIZADO EM 14.05.20[/COLOR][COLOR green] =====[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=KodiTVR&streamtype=HLSRETRY&amp;url=http://orbit-iptv.com:2500/live
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+
+
+
+#EXTINF:-1 tvg-id="RTP1HD" tvg-name="RTP 1" tvg-logo="http://oslo-meon.ddns.net/logo/RTP%201.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]RTP 1
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/554.m3u8
+#EXTINF:-1 tvg-id="RTP2" tvg-name="RTP 2" tvg-logo="http://oslo-meon.ddns.net/logov2/rtp2.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]RTP 2
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/555.m3u8
+#EXTINF:-1 tvg-id="SIC" tvg-name="SIC" tvg-logo="http://oslo-meon.ddns.net/logo/SIC_2018.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]SIC
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/556.m3u8
+#EXTINF:-1 tvg-id="TVI" tvg-name="TVI" tvg-logo="http://oslo-meon.ddns.net/logodvb/tvi.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]TVI
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/557.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HCoV-19" tvg-logo="http://oslo-meon.ddns.net/logos5/corona.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]HCoV-19
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/8473.m3u8
+#EXTINF:-1 tvg-id="RTP 1 HD" tvg-name="RTP 1 HD" tvg-logo="http://oslo-meon.ddns.net/logo/RTP%201.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]RTP 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/2180.m3u8
+#EXTINF:-1 tvg-id="RTP 2 FHD" tvg-name="RTP 2 HD" tvg-logo="http://oslo-meon.ddns.net/logov2/rtp2.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]RTP 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/2211.m3u8
+#EXTINF:-1 tvg-id="SIC FULL HD" tvg-name="SIC HD" tvg-logo="http://oslo-meon.ddns.net/logo/SIC_2018.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]SIC HD
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/2212.m3u8
+#EXTINF:-1 tvg-id="TVI" tvg-name="TVI HD" tvg-logo="http://oslo-meon.ddns.net/logodvb/tvi.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]TVI HD
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/2213.m3u8
+#EXTINF:-1 tvg-id="CMTV" tvg-name="CMTV" tvg-logo="http://oslo-meon.ddns.net/Logos/CM%20TV.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]CMTV
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/616.m3u8
+#EXTINF:-1 tvg-id="CMTVHD" tvg-name="CMTV HD" tvg-logo="http://oslo-meon.ddns.net/logodvb/CMTV.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]CMTV HD
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/4895.m3u8
+#EXTINF:-1 tvg-id="RTP3" tvg-name="RTP 3" tvg-logo="http://oslo-meon.ddns.net/logos_vdf/rtp3.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]RTP 3
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/672.m3u8
+#EXTINF:-1 tvg-id="RTP3_ALT" tvg-name="RTP 3 HD" tvg-logo="http://oslo-meon.ddns.net/logos_vdf/rtp3.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]RTP 3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/4896.m3u8
+#EXTINF:-1 tvg-id="SICN" tvg-name="SIC Notícias" tvg-logo="http://oslo-meon.ddns.net/Logos_iptv/sic_noticias.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]SIC Notícias
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/614.m3u8
+#EXTINF:-1 tvg-id="SICNOTICIASHD" tvg-name="SIC Noticias HD" tvg-logo="http://oslo-meon.ddns.net/Logos_iptv/sic_noticias.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]SIC Noticias HD
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/2214.m3u8
+#EXTINF:-1 tvg-id="TVI24" tvg-name="TVI 24" tvg-logo="http://oslo-meon.ddns.net/Logos/logo-TVI24.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]TVI 24
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/612.m3u8
+#EXTINF:-1 tvg-id="TVI Ficção" tvg-name="TVI Ficção" tvg-logo="http://oslo-meon.ddns.net/Logos/TVI%20FICCAO.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]TVI Ficção
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/611.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVI Reality ( live )" tvg-logo="" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]TVI Reality ( live )
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/8684.m3u8
+#EXTINF:-1 tvg-id="TVIREAL" tvg-name="TVI Reality" tvg-logo="http://oslo-meon.ddns.net/logo/Love-On-Top.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]TVI Reality
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/558.m3u8
+#EXTINF:-1 tvg-id="SICM" tvg-name="SIC Mulher" tvg-logo="http://oslo-meon.ddns.net/Logos/SIC%20MULHER.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]SIC Mulher
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/615.m3u8
+#EXTINF:-1 tvg-id="SICR" tvg-name="SIC Radical" tvg-logo="http://oslo-meon.ddns.net/Logos/SIC%20Radical.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]SIC Radical
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/613.m3u8
+#EXTINF:-1 tvg-id="SIC RADICAL HD" tvg-name="SIC Radical HD" tvg-logo="http://oslo-meon.ddns.net/logov2/SIC+Radical+logo.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]SIC Radical HD
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/2215.m3u8
+#EXTINF:-1 tvg-id="SICCARAS" tvg-name="SIC Caras" tvg-logo="http://oslo-meon.ddns.net/Logos/SIC%20CARAS.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]SIC Caras
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/560.m3u8
+#EXTINF:-1 tvg-id="CanalQB" tvg-name="Canal Q" tvg-logo="http://oslo-meon.ddns.net/logos2/picons/canalq.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Canal Q
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/691.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="...... Desporto ......" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:81/Logos/meon-pro.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]...... Desporto ......
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/939.m3u8
+#EXTINF:-1 tvg-id="SPORTV+HD" tvg-name="Sport TV  +" tvg-logo="http://oslo-meon.ddns.net/logodvb/sptv+.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Sport TV  +
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/990.m3u8
+#EXTINF:-1 tvg-id="SPTV" tvg-name="Sport TV 1" tvg-logo="http://oslo-meon.ddns.net/logodvb/sptv1.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Sport TV 1
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/563.m3u8
+#EXTINF:-1 tvg-id="SPTV2" tvg-name="Sport TV 2" tvg-logo="http://oslo-meon.ddns.net/logodvb/sptv2.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Sport TV 2
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/619.m3u8
+#EXTINF:-1 tvg-id="SPTV3" tvg-name="Sport TV 3" tvg-logo="http://oslo-meon.ddns.net/logodvb/sptv3.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Sport TV 3
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/676.m3u8
+#EXTINF:-1 tvg-id="SPTV4" tvg-name="Sport TV 4" tvg-logo="http://oslo-meon.ddns.net/logodvb/sptv4.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Sport TV 4
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/677.m3u8
+#EXTINF:-1 tvg-id="SPTV5" tvg-name="Sport TV 5" tvg-logo="http://oslo-meon.ddns.net/logodvb/sptv5.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Sport TV 5
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/624.m3u8
+#EXTINF:-1 tvg-id="SPORTV+HD" tvg-name="Sport TV + HD" tvg-logo="http://oslo-meon.ddns.net/logos_vdf/sportv+hd.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Sport TV + HD
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/4403.m3u8
+#EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-name="Sport TV 1 HD" tvg-logo="http://oslo-meon.ddns.net/logodvb/sptv1hd.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Sport TV 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/674.m3u8
+#EXTINF:-1 tvg-id="SPORTV2HD" tvg-name="Sport TV 2 HD" tvg-logo="http://oslo-meon.ddns.net/logodvb/sptv2hd.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Sport TV 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/680.m3u8
+#EXTINF:-1 tvg-id="SPORTV3HD" tvg-name="Sport TV 3 HD" tvg-logo="http://oslo-meon.ddns.net/logodvb/sptv3hd.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Sport TV 3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/568.m3u8
+#EXTINF:-1 tvg-id="SPORTV4HD" tvg-name="Sport TV 4 HD" tvg-logo="http://oslo-meon.ddns.net/logodvb/sptv4hd.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Sport TV 4 HD
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/2167.m3u8
+#EXTINF:-1 tvg-id="SPORTV5HD" tvg-name="Sport TV 5 HD" tvg-logo="http://oslo-meon.ddns.net/logodvb/sptv5hd.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Sport TV 5 HD
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/977.m3u8
+#EXTINF:-1 tvg-id="BENFICATV1HD(LOWBITRATE)" tvg-name="BTV" tvg-logo="https://media.slbenfica.pt/-/media/benficadp/images/generic_content_pages/btv/btv_logo_new.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]BTV
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/625.m3u8
+#EXTINF:-1 tvg-id="BTV HD1" tvg-name="BTV HD" tvg-logo="http://oslo-meon.ddns.net/logos2/picons/btv1.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]BTV HD
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/570.m3u8
+#EXTINF:-1 tvg-id="Eleven Sports 1" tvg-name="Eleven Sports 1" tvg-logo="http://oslo-meon.ddns.net/logos_vdf/11/elevensports1.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Eleven Sports 1
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/5423.m3u8
+#EXTINF:-1 tvg-id="Eleven Sports 2" tvg-name="Eleven Sports 2" tvg-logo="http://oslo-meon.ddns.net/logos_vdf/11/elevensports2.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Eleven Sports 2
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/5438.m3u8
+#EXTINF:-1 tvg-id="Eleven Sports 3" tvg-name="Eleven Sports 3" tvg-logo="http://oslo-meon.ddns.net/logos_vdf/11/elevensports3.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Eleven Sports 3
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/5649.m3u8
+#EXTINF:-1 tvg-id="Eleven Sports 4" tvg-name="Eleven Sports 4" tvg-logo="http://oslo-meon.ddns.net/logos_vdf/11/elevensports4.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Eleven Sports 4
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/5652.m3u8
+#EXTINF:-1 tvg-id="Eleven Sports 5" tvg-name="Eleven Sports 5" tvg-logo="http://oslo-meon.ddns.net/logos_vdf/11/elevensports5.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Eleven Sports 5
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/5653.m3u8
+#EXTINF:-1 tvg-id="Eleven Sports 6" tvg-name="Eleven Sports 6" tvg-logo="http://oslo-meon.ddns.net/logos_vdf/11/elevensports6.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Eleven Sports 6
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/5654.m3u8
+#EXTINF:-1 tvg-id="elevensports1HD" tvg-name="Eleven Sports 1 HD" tvg-logo="http://oslo-meon.ddns.net/logos_vdf/11/elevensports1.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Eleven Sports 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/5417.m3u8
+#EXTINF:-1 tvg-id="elevensports2HD" tvg-name="Eleven Sports 2 HD" tvg-logo="http://oslo-meon.ddns.net/logos_vdf/11/elevensports2.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Eleven Sports 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/5418.m3u8
+#EXTINF:-1 tvg-id="elevensports3HD" tvg-name="Eleven Sports 3 HD" tvg-logo="http://oslo-meon.ddns.net/logos_vdf/11/elevensports3.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Eleven Sports 3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/5419.m3u8
+#EXTINF:-1 tvg-id="elevensports4HD" tvg-name="Eleven Sports 4 HD" tvg-logo="http://oslo-meon.ddns.net/logos_vdf/11/elevensports4.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Eleven Sports 4 HD
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/5420.m3u8
+#EXTINF:-1 tvg-id="elevensports5HD" tvg-name="Eleven Sports 5 HD" tvg-logo="http://oslo-meon.ddns.net/logos_vdf/11/elevensports5.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Eleven Sports 5 HD
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/5421.m3u8
+#EXTINF:-1 tvg-id="elevensports6HD" tvg-name="Eleven Sports 6 HD" tvg-logo="http://oslo-meon.ddns.net/logos_vdf/11/elevensports6.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Eleven Sports 6 HD
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/5422.m3u8
+#EXTINF:-1 tvg-id="A Bola TV" tvg-name="A Bola TV" tvg-logo="http://oslo-meon.ddns.net/Logos/A%20BOLA.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]A Bola TV
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/576.m3u8
+#EXTINF:-1 tvg-id="PORTO" tvg-name="Porto Canal" tvg-logo="http://oslo-meon.ddns.net/Logos/Porto%20Canal.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Porto Canal
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/629.m3u8
+#EXTINF:-1 tvg-id="PORTOCANALHD" tvg-name="Porto Canal HD" tvg-logo="http://oslo-meon.ddns.net/Logos/Porto%20Canal.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Porto Canal HD
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/3122.m3u8
+#EXTINF:-1 tvg-id="SPORTINGHD" tvg-name="Sporting TV" tvg-logo="http://oslo-meon.ddns.net/Logos/SPORTING%20TV.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Sporting TV
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/627.m3u8
+#EXTINF:-1 tvg-id="SPORTINGHD" tvg-name="Sporting TV HD" tvg-logo="http://i.imgur.com/KTEBwY0.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Sporting TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/4822.m3u8
+#EXTINF:-1 tvg-id="SportTVNBA" tvg-name="Sport TV NBA" tvg-logo="http://oslo-meon.ddns.net/logo/SporTV.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Sport TV NBA
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/5773.m3u8
+#EXTINF:-1 tvg-id="REALMADRIDTV" tvg-name="Real Madrid" tvg-logo="http://oslo-meon.ddns.net/Logos/REAL%20MADRID%20TV%20HD.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Real Madrid
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/683.m3u8
+#EXTINF:-1 tvg-id="CANAL 11" tvg-name="Canal 11 - FPF" tvg-logo="http://oslo-meon.ddns.net/Logos/canal%2011.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Canal 11 - FPF
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/8338.m3u8
+#EXTINF:-1 tvg-id="PFC" tvg-name="PFC" tvg-logo="http://oslo-meon.ddns.net/logos2/picons/pfc.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]PFC
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/573.m3u8
+#EXTINF:-1 tvg-id="EUROSPORT1" tvg-name="Eurosport 1" tvg-logo="http://oslo-meon.ddns.net/Logos/Eurosport.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Eurosport 1
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/684.m3u8
+#EXTINF:-1 tvg-id="EUROS" tvg-name="Eurosport 1 HD" tvg-logo="http://oslo-meon.ddns.net/Logos/EUROSPORT%20HD.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Eurosport 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/632.m3u8
+#EXTINF:-1 tvg-id="EUROS2" tvg-name="Eurosport 2" tvg-logo="http://oslo-meon.ddns.net/Logos/EUROSPORT%202.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Eurosport 2
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/633.m3u8
+#EXTINF:-1 tvg-id="NBATVHD" tvg-name="NBA TV HD" tvg-logo="http://oslo-meon.ddns.net/Logos/sport_TV_nba.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]NBA TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/2191.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="...... Infantil ......" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:81/Logos/meon-pro.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]...... Infantil ......
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/933.m3u8
+#EXTINF:-1 tvg-id="PANDA" tvg-name="Canal Panda" tvg-logo="http://oslo-meon.ddns.net/Logos/Canal%20Panda.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Canal Panda
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/657.m3u8
+#EXTINF:-1 tvg-id="PANDABIGGS" tvg-name="Panda Biggs" tvg-logo="http://oslo-meon.ddns.net/Logos/PANDA%20BIGGS.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Panda Biggs
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/654.m3u8
+#EXTINF:-1 tvg-id="DISNY" tvg-name="Disney Channel" tvg-logo="http://oslo-meon.ddns.net/Logos/DISNEY%20CHANNEL.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Disney Channel
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/692.m3u8
+#EXTINF:-1 tvg-id="DISNEYJUNIOR" tvg-name="Disney Junior" tvg-logo="http://oslo-meon.ddns.net/Logos/Disney%20Junior.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Disney Junior
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/652.m3u8
+#EXTINF:-1 tvg-id="SIC K" tvg-name="SIC Kids" tvg-logo="http://oslo-meon.ddns.net/Logos/SIC%20K.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]SIC Kids
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/650.m3u8
+#EXTINF:-1 tvg-id="CART" tvg-name="Cartoon Network" tvg-logo="http://oslo-meon.ddns.net/Logos/CARTOON%20NETWORK.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Cartoon Network
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/597.m3u8
+#EXTINF:-1 tvg-id="NICKJR" tvg-name="Nick Jr" tvg-logo="http://oslo-meon.ddns.net/Logos_iptv/Nick_Jr.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Nick Jr
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/4842.m3u8
+#EXTINF:-1 tvg-id="Nicke" tvg-name="Nickelodeon" tvg-logo="http://oslo-meon.ddns.net/Logos/Nickelodeon.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Nickelodeon
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/655.m3u8
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="http://crushgame.ru/channels_logos/Children/Boomerang.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Boomerang
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/5601.m3u8
+#EXTINF:-1 tvg-id="JimJam" tvg-name="Jim Jam" tvg-logo="http://oslo-meon.ddns.net/Logos/JIM%20JAM.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Jim Jam
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/656.m3u8
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV" tvg-logo="http://oslo-meon.ddns.net/Logos/BABY%20TV.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Baby TV
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/653.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="...... Filmes ......" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:81/Logos/meon-pro.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]...... Filmes ......
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/936.m3u8
+#EXTINF:-1 tvg-id="TVC1" tvg-name="TV Cine TOP" tvg-logo="http://oslo-meon.ddns.net/logo/tvctop.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]TV Cine TOP
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/5389.m3u8
+#EXTINF:-1 tvg-id="TVC2" tvg-name="TV Cine EDITION" tvg-logo="http://oslo-meon.ddns.net/logo/tvcedition.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]TV Cine EDITION
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/639.m3u8
+#EXTINF:-1 tvg-id="TV CINE 3 HD (LOW BITRATE)" tvg-name="TV Cine EMOTION" tvg-logo="http://oslo-meon.ddns.net/logo/tvcemotion.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]TV Cine EMOTION
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/640.m3u8
+#EXTINF:-1 tvg-id="TVC1" tvg-name="TV Cine ACTION" tvg-logo="http://oslo-meon.ddns.net/logo/tvcaction.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]TV Cine ACTION
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/641.m3u8
+#EXTINF:-1 tvg-id="TVC1HD(LOWBITRATE)" tvg-name="TV Cine TOP HD" tvg-logo="http://oslo-meon.ddns.net/logo/tvctop.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]TV Cine TOP HD
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/577.m3u8
+#EXTINF:-1 tvg-id="TVC2HD(LOWBITRATE)" tvg-name="TV Cine EDITION HD" tvg-logo="http://oslo-meon.ddns.net/logo/tvcedition.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]TV Cine EDITION HD
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/578.m3u8
+#EXTINF:-1 tvg-id="TVC3HD(LOWBITRATE)" tvg-name="TV Cine EMOTION HD" tvg-logo="http://oslo-meon.ddns.net/logo/tvcemotion.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]TV Cine EMOTION HD
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/579.m3u8
+#EXTINF:-1 tvg-id="TVC4HD(LOWBITRATE)" tvg-name="TV Cine ACTION HD" tvg-logo="http://oslo-meon.ddns.net/logo/tvcaction.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]TV Cine ACTION HD
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/580.m3u8
+#EXTINF:-1 tvg-id="TVSERIES" tvg-name="TV Series" tvg-logo="http://oslo-meon.ddns.net/logos_pt_canliturktv/pt/TvSeries.pt.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]TV Series
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/3232.m3u8
+#EXTINF:-1 tvg-id="TVCSERIESLOWBITRATE" tvg-name="TV Series HD" tvg-logo="http://oslo-meon.ddns.net/logos2/picons/tvshd.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]TV Series HD
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/583.m3u8
+#EXTINF:-1 tvg-id="HOLLYWOOD HD" tvg-name="Hollywood HD" tvg-logo="http://oslo-meon.ddns.net/Logos/Hollywood.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Hollywood HD
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/642.m3u8
+#EXTINF:-1 tvg-id="HOLLY" tvg-name="Hollywood" tvg-logo="http://oslo-meon.ddns.net/Logos/HOLLYWOOD%20HD.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Hollywood
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/584.m3u8
+#EXTINF:-1 tvg-id="Cinemundo" tvg-name="Cinemundo" tvg-logo="http://oslo-meon.ddns.net/Logos/Cinemundo.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Cinemundo
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/2189.m3u8
+#EXTINF:-1 tvg-id="CineMundo2" tvg-name="Cinemundo HD" tvg-logo="http://oslo-meon.ddns.net/Logos/Cinemundo.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Cinemundo HD
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/646.m3u8
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://oslo-meon.ddns.net/logos_pt_canliturktv/pt/AMC.pt.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]AMC
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/581.m3u8
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="http://oslo-meon.ddns.net/logos_pt_canliturktv/pt/AMC.pt.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]AMC HD
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/648.m3u8
+#EXTINF:-1 tvg-id="FOXNEXT" tvg-name="FOX Movies" tvg-logo="http://oslo-meon.ddns.net/logos2/picons/foxmovies.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]FOX Movies
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/688.m3u8
+#EXTINF:-1 tvg-id="FOX MOVIES HD" tvg-name="FOX Movies HD" tvg-logo="http://oslo-meon.ddns.net/Logos/FOX%20MOVIES%20HD.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]FOX Movies HD
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/643.m3u8
+#EXTINF:-1 tvg-id="NOSSTUDIOS" tvg-name="NOS Studios" tvg-logo="" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]NOS Studios
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/8402.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="...... Séries ......" tvg-logo="" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]...... Séries ......
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/5408.m3u8
+#EXTINF:-1 tvg-id="AXN HD (LOW BITRATE)" tvg-name="AXN HD" tvg-logo="http://oslo-meon.ddns.net/Logos/AXN%20HD.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]AXN HD
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/586.m3u8
+#EXTINF:-1 tvg-id="AXN WHITE HD (LOW BITRATE)" tvg-name="AXN White HD" tvg-logo="http://oslo-meon.ddns.net/Logos/Axn%20White%20HD.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]AXN White HD
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/587.m3u8
+#EXTINF:-1 tvg-id="AXN BLACK HD (LOW BITRATE)" tvg-name="AXN Black HD" tvg-logo="http://oslo-meon.ddns.net/Logos/AXN%20BLACK%20HD.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]AXN Black HD
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/647.m3u8
+#EXTINF:-1 tvg-id="SKYFY HD" tvg-name="Syfy" tvg-logo="http://oslo-meon.ddns.net/Logos/SYFY%20HD.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Syfy
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/649.m3u8
+#EXTINF:-1 tvg-id="SKYFY HD" tvg-name="Syfy HD" tvg-logo="http://oslo-meon.ddns.net/Logos/SYFY%20HD.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Syfy HD
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/4821.m3u8
+#EXTINF:-1 tvg-id="FOX LOW" tvg-name="FOX HD" tvg-logo="http://oslo-meon.ddns.net/Logos/FOX%20HD.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]FOX HD
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/644.m3u8
+#EXTINF:-1 tvg-id="FOXLIFE" tvg-name="Fox Life" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Fox-Life.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Fox Life
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/4823.m3u8
+#EXTINF:-1 tvg-id="FOXLIFELOWOUHD" tvg-name="FOX Life HD" tvg-logo="http://oslo-meon.ddns.net/Logos/Fox%20Life%20HD.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]FOX Life HD
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/585.m3u8
+#EXTINF:-1 tvg-id="FOXCRIME" tvg-name="Fox Crime" tvg-logo="https://www.tvsa.co.za/images/uploads/thumbs/0049909.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Fox Crime
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/4824.m3u8
+#EXTINF:-1 tvg-id="FOXCRIMELOWOUHD" tvg-name="FOX Crime HD" tvg-logo="http://oslo-meon.ddns.net/Logos/FOX%20CRIME%20HD.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]FOX Crime HD
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/645.m3u8
+#EXTINF:-1 tvg-id="FX" tvg-name="FOX Comedy" tvg-logo="http://oslo-meon.ddns.net/logov2/FOXCOH.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]FOX Comedy
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/588.m3u8
+#EXTINF:-1 tvg-id="FOX COMEDY HD" tvg-name="FOX Comedy HD" tvg-logo="http://oslo-meon.ddns.net/logov2/FOXCOH.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]FOX Comedy HD
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/1825.m3u8
+#EXTINF:-1 tvg-id="EUROCHANNEL" tvg-name="Eurochannel" tvg-logo="http://oslo-meon.ddns.net/Logos/A&E.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Eurochannel
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/591.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="...... Musicas ......" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:81/Logos/meon-pro.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]...... Musicas ......
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/935.m3u8
+#EXTINF:-1 tvg-id="VH1" tvg-name="VH1" tvg-logo="http://oslo-meon.ddns.net/Logos/VH1.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]VH1
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/697.m3u8
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV Portugal" tvg-logo="http://oslo-meon.ddns.net/logov2/MTV.pt.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]MTV Portugal
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/658.m3u8
+#EXTINF:-1 tvg-id="Afro Music" tvg-name="Afro Music" tvg-logo="http://oslo-meon.ddns.net/Logos/AFRO%20MUSIC.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Afro Music
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/599.m3u8
+#EXTINF:-1 tvg-id="MCMPOP" tvg-name="MCM POP" tvg-logo="http://oslo-meon.ddns.net/logos2/picons/mcmpop.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]MCM POP
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/927.m3u8
+#EXTINF:-1 tvg-id="MCM" tvg-name="MCM TOP" tvg-logo="http://oslo-meon.ddns.net/logov2/mcm.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]MCM TOP
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/976.m3u8
+#EXTINF:-1 tvg-id="TRACEURBANHD" tvg-name="Trace Urban TV" tvg-logo="http://oslo-meon.ddns.net/logo/trace%20urban.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Trace Urban TV
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/857.m3u8
+#EXTINF:-1 tvg-id="TRACEURBANHD" tvg-name="Trace Tropical" tvg-logo="http://oslo-meon.ddns.net/logo/trace%20tropical.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Trace Tropical
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/5630.m3u8
+#EXTINF:-1 tvg-id="TRACE TOCA HD" tvg-name="Trace Toca" tvg-logo="http://oslo-meon.ddns.net/logo/trace%20toca.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Trace Toca
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/5416.m3u8
+#EXTINF:-1 tvg-id="MVM" tvg-name="MVM" tvg-logo="http://oslo-meon.ddns.net/Logos/MVM.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]MVM
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/5392.m3u8
+#EXTINF:-1 tvg-id="ClubbingTV" tvg-name="Clubbing TV" tvg-logo="http://oslo-meon.ddns.net/logov2/ctv_logo.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Clubbing TV
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/2171.m3u8
+#EXTINF:-1 tvg-id="MEZZO" tvg-name="MEZZO" tvg-logo="http://oslo-meon.ddns.net/Logos/MEZZO.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]MEZZO
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/932.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="...... Combate ......" tvg-logo="" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]...... Combate ......
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/5412.m3u8
+#EXTINF:-1 tvg-id="KOMBAT SPORT" tvg-name="Kombat Sport" tvg-logo="http://oslo-meon.ddns.net/Logos/kombat-sport-chega-ao-meo.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Kombat Sport
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/974.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="...... Natureza ......" tvg-logo="" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]...... Natureza ......
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/5411.m3u8
+#EXTINF:-1 tvg-id="Caça e Pesca" tvg-name="Caça e Pesca" tvg-logo="http://oslo-meon.ddns.net/Logos/Caza%20y%20Pesca.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Caça e Pesca
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/601.m3u8
+#EXTINF:-1 tvg-id="Caçavision" tvg-name="CaçaVision" tvg-logo="http://oslo-meon.ddns.net/Logos/CA%c3%87AVISION.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]CaçaVision
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/703.m3u8
+#EXTINF:-1 tvg-id="Toros TV" tvg-name="Toros TV" tvg-logo="http://oslo-meon.ddns.net/Logos/Toros%20TV.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Toros TV
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/698.m3u8
+#EXTINF:-1 tvg-id="Toros TV" tvg-name="Toros TV HD" tvg-logo="http://oslo-meon.ddns.net/Logos/Toros%20TV.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Toros TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/5398.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Campo Pequeno TV HD" tvg-logo="http://oslo-meon.ddns.net/Logos/campotv.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Campo Pequeno TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/8375.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="...... Motores ......" tvg-logo="" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]...... Motores ......
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/5410.m3u8
+#EXTINF:-1 tvg-id="MOTORVISION" tvg-name="Motorvision" tvg-logo="http://oslo-meon.ddns.net/logov2/MOTORSPORTTV.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Motorvision
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/2299.m3u8
+#EXTINF:-1 tvg-id="MOTORVISIONHD" tvg-name="Motorvision HD" tvg-logo="http://oslo-meon.ddns.net/Logos/MOTORVISION.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Motorvision HD
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/574.m3u8
+#EXTINF:-1 tvg-id="Ext_Spt" tvg-name="Fuel TV" tvg-logo="http://oslo-meon.ddns.net/Logos/FUEL%20TV.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Fuel TV
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/575.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="...... Informação local ......" tvg-logo="" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]...... Informação local ......
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/5405.m3u8
+#EXTINF:-1 tvg-id="RTPMAD" tvg-name="RTP Madeira" tvg-logo="http://oslo-meon.ddns.net/Logos/RTP%20MADEIRA.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]RTP Madeira
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/607.m3u8
+#EXTINF:-1 tvg-id="RTPACO" tvg-name="RTP Açores" tvg-logo="http://oslo-meon.ddns.net/Logos/RTP%20ACORES.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]RTP Açores
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/673.m3u8
+#EXTINF:-1 tvg-id="RTPA" tvg-name="RTP África" tvg-logo="http://oslo-meon.ddns.net/Logos/RTP%20%C3%83%C2%81frica.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]RTP África
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/609.m3u8
+#EXTINF:-1 tvg-id="RTPM" tvg-name="RTP Memoria" tvg-logo="http://oslo-meon.ddns.net/Logos/RTP%20MEMORIA.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]RTP Memoria
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/606.m3u8
+#EXTINF:-1 tvg-id="Canal180" tvg-name="Canal 180" tvg-logo="http://oslo-meon.ddns.net/logov2/180.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Canal 180
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/5402.m3u8
+#EXTINF:-1 tvg-id="ARTV (Canal Parlamento)" tvg-name="ARTV" tvg-logo="http://oslo-meon.ddns.net/logodvb/artv.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]ARTV
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/728.m3u8
+#EXTINF:-1 tvg-id="CBS Reality" tvg-name="CBS Reality" tvg-logo="http://oslo-meon.ddns.net/Logos/CBS%20REALITY.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]CBS Reality
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/590.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="...... Documentários ......" tvg-logo="" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]...... Documentários ......
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/5409.m3u8
+#EXTINF:-1 tvg-id="CRIME INVESTIGATION" tvg-name="Crime+Investigation" tvg-logo="http://oslo-meon.ddns.net/logov2/crimeandinvestigation.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Crime+Investigation
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/5683.m3u8
+#EXTINF:-1 tvg-id="InvestigationDiscovery" tvg-name="ID Investigation Discovery" tvg-logo="http://oslo-meon.ddns.net/Logos_iptv/Investigation-Discovery.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]ID Investigation Discovery
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/5684.m3u8
+#EXTINF:-1 tvg-id="BLAZE" tvg-name="Blaze" tvg-logo="https://prod-cdn-aenetworks-tv.s3.amazonaws.com/network-images/BLAZE.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Blaze
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/5393.m3u8
+#EXTINF:-1 tvg-id="ODIS" tvg-name="Odisseia" tvg-logo="http://oslo-meon.ddns.net/Logos/Odisseia.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Odisseia
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/665.m3u8
+#EXTINF:-1 tvg-id="Canal História" tvg-name="Canal Historia" tvg-logo="http://oslo-meon.ddns.net/Logos/Canal%20de%20Historia.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Canal Historia
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/702.m3u8
+#EXTINF:-1 tvg-id="TRAVEL" tvg-name="Travel Channel HD" tvg-logo="http://oslo-meon.ddns.net/logov2/Travel_Channel_logo.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Travel Channel HD
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/662.m3u8
+#EXTINF:-1 tvg-id="NAT GEO WILD HD" tvg-name="Nat Geo Wild" tvg-logo="http://oslo-meon.ddns.net/Logos/National%20Geography%20Wild.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Nat Geo Wild
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/593.m3u8
+#EXTINF:-1 tvg-id="NGC" tvg-name="National Geographic HD" tvg-logo="http://oslo-meon.ddns.net/Logos/NATIONAL%20GEOGRAPHIC%20HD.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]National Geographic HD
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/592.m3u8
+#EXTINF:-1 tvg-id="DISCOVERYHD" tvg-name="Discovery HD Showcase" tvg-logo="http://oslo-meon.ddns.net/Logos/DISCOVERY%20SHOWCASE%20HD.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Discovery HD Showcase
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/958.m3u8
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery Channel" tvg-logo="http://oslo-meon.ddns.net/Logos/Discovery%20Channel.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Discovery Channel
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/659.m3u8
+#EXTINF:-1 tvg-id="FINE LIVING NETWORK HD" tvg-name="Fine Living Network HD" tvg-logo="http://oslo-meon.ddns.net/Logos_iptv/fine_living.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Fine Living Network HD
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/5401.m3u8
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://oslo-meon.ddns.net/Logos/TLC.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]TLC
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/589.m3u8
+#EXTINF:-1 tvg-id="EENTER" tvg-name="E! Entertainment" tvg-logo="http://oslo-meon.ddns.net/Logos/E!%20ENTERTAINMENT.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]E! Entertainment
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/595.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="...... Internacionais ......" tvg-logo="" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]...... Internacionais ......
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/5406.m3u8
+#EXTINF:-1 tvg-id="TV Globo Portugal" tvg-name=" Globo Portugal" tvg-logo="http://oslo-meon.ddns.net/Logos/TV%20GLOBO.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR] Globo Portugal
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/561.m3u8
+#EXTINF:-1 tvg-id="TVGloboPortugal2" tvg-name="TV Globo NOW" tvg-logo="http://oslo-meon.ddns.net/logos2/picons/globopremium.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]TV Globo NOW
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/562.m3u8
+#EXTINF:-1 tvg-id="TVR" tvg-name="TV Record" tvg-logo="http://oslo-meon.ddns.net/Logos/Tv%20Record.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]TV Record
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/664.m3u8
+#EXTINF:-1 tvg-id="TPA" tvg-name="TPA" tvg-logo="http://oslo-meon.ddns.net/logos2/picons/tpa.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]TPA
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/915.m3u8
+#EXTINF:-1 tvg-id="ZAPVIVAHD" tvg-name="Zap" tvg-logo="http://www.zap.co.ao/uploads/editor/images/sobre/logo-zap-contactos.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Zap
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/8378.m3u8
+#EXTINF:-1 tvg-id="REGIOES TV" tvg-name="Regiões TV" tvg-logo="http://oslo-meon.ddns.net/logos_pt_canliturktv/pt/RegioesTV.pt.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Regiões TV
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/5399.m3u8
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="http://oslo-meon.ddns.net/Logos_iptv/CNN.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]CNN
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/964.m3u8
+#EXTINF:-1 tvg-id="EURON" tvg-name="Euronews" tvg-logo="http://oslo-meon.ddns.net/Logos_iptv/Euronews.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Euronews
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/2184.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Euro Channel" tvg-logo="" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Euro Channel
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/8411.m3u8
+#EXTINF:-1 tvg-id="TV Galicia" tvg-name="TV Galicia" tvg-logo="http://oslo-meon.ddns.net/logov2/galicia.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]TV Galicia
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/960.m3u8
+#EXTINF:-1 tvg-id="FOX News" tvg-name="FOX News" tvg-logo="http://oslo-meon.ddns.net/logov2/fozn.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]FOX News
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/2170.m3u8
+#EXTINF:-1 tvg-id="BBCW" tvg-name="BBC World News" tvg-logo="http://oslo-meon.ddns.net/Logos_iptv/BBC_World_News.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]BBC World News
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/4839.m3u8
+#EXTINF:-1 tvg-id="FRANCE24FR" tvg-name="France 24" tvg-logo="http://oslo-meon.ddns.net/Logos_iptv/France_24.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]France 24
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/965.m3u8
+#EXTINF:-1 tvg-id="BBC Entertainment" tvg-name="BBC Entretainment" tvg-logo="http://oslo-meon.ddns.net/Logos_iptv/bbc_entert.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]BBC Entretainment
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/705.m3u8
+#EXTINF:-1 tvg-id="SKYN" tvg-name="SKY NEWS" tvg-logo="http://oslo-meon.ddns.net/logo/SKY%20News.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]SKY NEWS
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/948.m3u8
+#EXTINF:-1 tvg-id="FTV" tvg-name="Fashion TV" tvg-logo="http://oslo-meon.ddns.net/Logos_iptv/Fashion_TV_Logo.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Fashion TV
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/2181.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="...... Culinária ......" tvg-logo="" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]...... Culinária ......
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/5407.m3u8
+#EXTINF:-1 tvg-id="24KITCHENHDLOW" tvg-name="24 Kitchen HD" tvg-logo="http://oslo-meon.ddns.net/Logos/24%20KITCHEN%20HD.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]24 Kitchen HD
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/600.m3u8
+#EXTINF:-1 tvg-id="RTP1HD" tvg-name="Casa e Cozinha" tvg-logo="" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Casa e Cozinha
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/8631.m3u8
+#EXTINF:-1 tvg-id="MyCuisine" tvg-name="My Cuisine" tvg-logo="http://oslo-meon.ddns.net/logodvb/My_Cuisine.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]My Cuisine
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/4841.m3u8
+#EXTINF:-1 tvg-id="FOODNETWORKHD" tvg-name="Food Network" tvg-logo="http://oslo-meon.ddns.net/logos_pt_canliturktv/pt/FoodNetwork.pt.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Food Network
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/2183.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="...... Religião ......" tvg-logo="" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]...... Religião ......
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/5403.m3u8
+#EXTINF:-1 tvg-id="KuriakosTV" tvg-name="Kuriakos TV" tvg-logo="http://oslo-meon.ddns.net/logos_pt_canliturktv/pt/KuriakosTv.pt.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Kuriakos TV
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/5690.m3u8
+#EXTINF:-1 tvg-id="TV Fatima" tvg-name="Tv Fatima" tvg-logo="http://oslo-meon.ddns.net/Logos/fatimatv.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Tv Fatima
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/2065.m3u8
+#EXTINF:-1 tvg-id="CANCAONOVA" tvg-name="Canção Nova" tvg-logo="http://oslo-meon.ddns.net/Logos/TV%20CAN%C3%87AO%20NOVA.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Canção Nova
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/972.m3u8
+#EXTINF:-1 tvg-id="GINX" tvg-name="Ginx" tvg-logo="http://oslo-meon.ddns.net/Logos/GINX.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Ginx
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/8018.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="......  Relaxar ......" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Star_none.svg/120px-Star_none.svg.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]......  Relaxar ......
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/8564.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Chuva" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/chuva-png-1.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Chuva
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/8567.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Chuva e Trovão" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/chuva-png-1.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Chuva e Trovão
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/8562.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Praia" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/fundo-praia-png.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Praia
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/8563.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Relax music" tvg-logo="https://www.amandadeshong.com/wp-content/uploads/2018/09/Untitled-300x200.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Relax music
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/8515.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Piano Music Radio • Relax" tvg-logo="https://i.dlpng.com/static/png/147673_preview.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Piano Music Radio • Relax
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/8516.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Piano relax" tvg-logo="https://resources.tidal.com/images/2ffb6cb1/43c6/422d/8deb/4296c9774627/640x640.jpg" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Piano relax
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/8561.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Beautiful Instrumental Music" tvg-logo="https://webstockreview.net/images/musician-clipart-instrumental-music-5.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Beautiful Instrumental Music
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/8546.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lareira" tvg-logo="https://i.ya-webdesign.com/images/stone-fireplace-png-6.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Lareira
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/8559.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Soft Jazz: Fireplace" tvg-logo="https://i.pinimg.com/originals/56/2f/a8/562fa81be1259951ac5ab588b993baf0.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Soft Jazz: Fireplace
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/8560.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Love songs 80s and 90s" tvg-logo="https://lh3.googleusercontent.com/proxy/rDGJsUgM73469mvQLlzTkVSBuS_JGUPFkkcIIUg4yykYfsgcaSw--MKqrD4ZkuTOVpOXCHmkSX-g5YpN9HkDau3ysSFVBcz1GNzFN1VQ-YazBsPPtv2Ohte_OsBchQ" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Love songs 80s and 90s
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/8565.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Love Songs Collection" tvg-logo="https://store-images.s-microsoft.com/image/apps.30583.13547375661151820.39258b2a-71d1-4cc9-a8b2-542015a61ace.267fa21f-29ec-46fd-b4d2-310097a853e0?mode=scale&q=90&h=300&w=300" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Love Songs Collection
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/8566.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAM - Matosinhos" tvg-logo="https://i.dlpng.com/static/png/1156954--webcam-png-256_256_preview.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]CAM - Matosinhos
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/8668.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAM - Furadouro" tvg-logo="https://i.dlpng.com/static/png/1156954--webcam-png-256_256_preview.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]CAM - Furadouro
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/8669.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAM - Torreira" tvg-logo="https://i.dlpng.com/static/png/1156954--webcam-png-256_256_preview.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]CAM - Torreira
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/8670.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAM -Mira" tvg-logo="https://i.dlpng.com/static/png/1156954--webcam-png-256_256_preview.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]CAM -Mira
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/8671.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAM - Nazaré" tvg-logo="https://i.dlpng.com/static/png/1156954--webcam-png-256_256_preview.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]CAM - Nazaré
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/8673.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAM - Peniche" tvg-logo="https://i.dlpng.com/static/png/1156954--webcam-png-256_256_preview.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]CAM - Peniche
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/8674.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAM  - Lagide" tvg-logo="https://i.dlpng.com/static/png/1156954--webcam-png-256_256_preview.png" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]CAM  - Lagide
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/8675.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAM-VILAMOURA" tvg-logo="" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]CAM-VILAMOURA
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/8677.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAM-PRAIA DA ROCHA" tvg-logo="" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]CAM-PRAIA DA ROCHA
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/8678.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAM-CARCAVELOS" tvg-logo="" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]CAM-CARCAVELOS
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/8679.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAM-PRAIA DO GUINCHO/CASCAIS" tvg-logo="" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]CAM-PRAIA DO GUINCHO/CASCAIS
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/8680.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAM-MADEIRA" tvg-logo="" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]CAM-MADEIRA
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/8681.m3u8
+#EXTINF:-1 tvg-id="TVIREALMOSAICO" tvg-name="TVI Reality - Câmara 4" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/TVI_Reality.png/revision/latest?cb=20151102010608" group-title="**| Portugal |**", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]TVI Reality - Câmara 4
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/4361.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Orbital Radio" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-com-pt/orbital.png" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Orbital Radio
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/1254.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Comercial" tvg-logo="http://www.nos.pt/RefData/SiteCollectionImages/Canais/Logos%2085%20x%2070/radio_comecial_85x70.jpg" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Rádio Comercial
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/1388.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio 93.5" tvg-logo="https://i.ytimg.com/vi/rURvL4j5GaM/maxresdefault.jpg" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Radio 93.5
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/1371.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mega Hits" tvg-logo="http://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/megahits_85x70.jpg" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Mega Hits
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/1256.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cidade FM" tvg-logo="http://dznmkb6al6kqz.cloudfront.net/sites/default/files/radio/logos/logo-cidade-fm_0.png" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Cidade FM
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/1391.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RFM" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/images/276e7fbe0c15173cc4e378b82e2577c2.jpg" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]RFM
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/1255.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="M80" tvg-logo="http://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/m80_85x70.jpg" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]M80
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/1379.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Antena 1" tvg-logo="http://www.nos.pt/RefData/SiteCollectionImages/Canais/Logos%2085%20x%2070/antena1_85x70.jpg" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Antena 1
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/1373.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Antena 2" tvg-logo="http://www.nos.pt/RefData/SiteCollectionImages/Canais/Logos%2085%20x%2070/antena2_85x70.jpg" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Antena 2
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/1372.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Antena 3" tvg-logo="http://www.nos.pt/RefData/SiteCollectionImages/Canais/Logos%2085%20x%2070/antena3_85x70.jpg" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Antena 3
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/1374.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TSF" tvg-logo="http://www.tsf.pt/common/images/logo-tsf.png" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]TSF
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/1380.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Jovem POP" tvg-logo="https://static.radio.pt/images/broadcasts/27/e6/34288/1/c175.png" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Radio Jovem POP
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/1828.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al!ive FM" tvg-logo="http://img.radios.com.br/radio/lg/radio27128_1439401686.jpg" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Al!ive FM
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/2195.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nova Era" tvg-logo="http://i.imgur.com/LWTUgSC.png" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Nova Era
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/1381.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radar" tvg-logo="https://static.radio.pt/images/broadcasts/b1/c5/18918/1/c175.png" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Radar
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/1383.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Oxigenio" tvg-logo="http://www.nos.pt/RefData/SiteCollectionImages/Canais/Logos%2085%20x%2070/oxigenio_85x70.jpg" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Oxigenio
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/1384.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mallorca Sunshine Radio" tvg-logo="https://cdn-radiotime-logos.tunein.com/s184797q.png" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Mallorca Sunshine Radio
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/1377.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="80s RFM" tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2008/09/logo80RFMPlayer.png" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]80s RFM
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/1378.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Vibe of Vegas" tvg-logo="https://cdn-radiotime-logos.tunein.com/s140762q.png" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]The Vibe of Vegas
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/2198.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Renascença" tvg-logo="https://mytuner.global.ssl.fastly.net/media/radios-100px/a52CYvfFmS.png" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Renascença
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/1382.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Santiago 98.0 FM" tvg-logo="https://img.radios.com.br/radio/lg/radio8939_1563375137.jpg" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Santiago 98.0 FM
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/3250.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Noite FM" tvg-logo="https://top-radio.org/wp-content/uploads/logo/4dsquNKUme.jpg" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Noite FM
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/1387.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Antena 1 - Fado" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/1/11/Antena_1_Fado.png/revision/latest?cb=20161027145913" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Antena 1 - Fado
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/1830.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Smooth FM" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-com-pt/smooth.png" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Smooth FM
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/1827.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Oceano Pacífico" tvg-logo="https://static.radio.net/images/broadcasts/1a/c0/18780/c175.png" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Oceano Pacífico
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/2176.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="102.7 KIIS FM" tvg-logo="https://static.radio.net/images/broadcasts/b9/c6/37042/1/c175.png" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]102.7 KIIS FM
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/2173.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SIM" tvg-logo="https://img.radios.com.br/radio/lg/radio25303_1512219661.jpg" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]SIM
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/2177.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zig Zag" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/qwqubzer9gzw.png" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Zig Zag
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/2174.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Barcelos  FM" tvg-logo="https://static.radio.net/images/broadcasts/81/e6/16912/c175.png" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Rádio Barcelos  FM
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/2200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Placard  FM" tvg-logo="https://static.radio.pt/images/broadcasts/05/d1/36644/c300.png" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Rádio Placard  FM
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/2203.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Onda Viva FM" tvg-logo="https://static-media.streema.com/media/cache/24/68/246872c6fbe305b811b721b369130734.jpg" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Rádio Onda Viva FM
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/2207.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Horizonte FM" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/53KPHjpgcg.png" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Rádio Horizonte FM
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/2204.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Amália 92.0 FM" tvg-logo="https://lh3.googleusercontent.com/proxy/aVx_y8_w_shHYWgoeErwgr2dd0HRieB9F6O9jpKwS8FaS78eyJ1D8NXQSS0r0RjNCVVoV5q6eQ5ZO0LZpnwvmwdvSW8VNc1n25Wq-uYyEpK_C7StdJONOg" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Rádio Amália 92.0 FM
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/3237.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRACE FM Paris" tvg-logo="https://static.radio.net/images/broadcasts/ab/a0/33917/c175.png" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]TRACE FM Paris
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/3239.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Diana FM 94.1" tvg-logo="https://www.dianafm.com/wp-content/uploads/2016/03/diana_logo.png" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Rádio Diana FM 94.1
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/3240.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Festival do Grande Porto" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/zAPHUHxTtX.png" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Rádio Festival do Grande Porto
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/3241.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOP 80 - Radio hits" tvg-logo="https://static.radio.pt/images/broadcasts/cc/94/18978/c175.png" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]TOP 80 - Radio hits
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/3242.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Absolute Trance" tvg-logo="https://cdn-profiles.tunein.com/s306579/images/logog.png" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Radio Absolute Trance
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/3247.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Fundação - Guimarães" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/vrUxmS4WvW.png" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Rádio Fundação - Guimarães
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/3248.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Portuguesa do Var" tvg-logo="https://static.radio.pt/images/broadcasts/7e/21/18050/c175.png" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Radio Portuguesa do Var
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/3252.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio TOP 80" tvg-logo="https://static.radio.pt/images/broadcasts/91/28/122152/1/c175.png" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Radio TOP 80
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/3255.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Valdevez 100.8" tvg-logo="http://www.radiovaldevez.pt/wp-content/uploads/2014/11/radioval.png" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Radio Valdevez 100.8
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/3253.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Meo Sudoeste" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-com-pt/swtmn-lisboa.png" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Rádio Meo Sudoeste
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/2210.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio - Amor 95.3 Mexico" tvg-logo="https://1.bp.blogspot.com/-rFYJU2_0pz0/WdlD7rIZN1I/AAAAAAAAAq8/AwEstanTfq4_ow4RJgHJQmcZUemery5EwCKgBGAs/s1600/Amor_FM.png" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Radio - Amor 95.3 Mexico
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/3266.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio - Blue Marlin Ibiza" tvg-logo="https://static.radio.pt/images/broadcasts/f5/df/10003/c175.png" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Radio - Blue Marlin Ibiza
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/3262.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Oldies FM" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/5quVH5dJaP.png" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Oldies FM
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/3271.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio - Love Classics" tvg-logo="https://static.radio.pt/images/broadcasts/e8/4c/35466/c300.png" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Radio - Love Classics
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/3270.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Alfa 91.3 - Mexico" tvg-logo="https://img.radios.com.br/radio/xl/radio4845_1486748063.jpg" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Radio Alfa 91.3 - Mexico
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/3265.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Metropolitana Brasil [Top 50 Br]" tvg-logo="https://cdn.webrad.io/images/logos/radiosaovivo-net/metropolitana-online.png" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Radio Metropolitana Brasil [Top 50 Br]
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/3269.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Torres Novas" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/VUrdJgvhEQ.jpg" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Radio Torres Novas
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/3257.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Magic FM Club 80s" tvg-logo="http://static.radio.net/images/broadcasts/06/b0/40261/2/c300.png" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Magic FM Club 80s
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/3273.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Cidade Hoje" tvg-logo="https://img.radios.com.br/radio/xl/radio5877_1541535727.jpg" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Radio Cidade Hoje
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/3279.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Ondas do Lima" tvg-logo="https://cdn-radiotime-logos.tunein.com/s48681g.png" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Radio Ondas do Lima
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/3278.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="538 IBIZA" tvg-logo="https://www.radioguide.fm/uploads/images/radiostation/538-ibiza.jpg" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]538 IBIZA
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/3277.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio - Absolute 90's" tvg-logo="https://listenapi.s3.amazonaws.com/img/ConfigWebListenBarLogoImageUrl/6.png?ver=1463741192" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Radio - Absolute 90's
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/3287.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio - Samba Rock" tvg-logo="https://www.phonostar.de/images/auto_created/1fm184x184.png" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Radio - Samba Rock
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/3286.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Amor Portugal" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/qdHPHykr8x.png" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Rádio Amor Portugal
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/5503.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTL 102.5 - Classic Italia" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/wYBJZXPMxh.png" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]RTL 102.5 - Classic Italia
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/5524.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kiss FM - Mallorca (classic)" tvg-logo="http://www.listenradios.com/en/wp-content/uploads/2016/01/Kiss-FM.jpg" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Kiss FM - Mallorca (classic)
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/5505.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Som da Baixa Setubal - Radio" tvg-logo="https://image.winudf.com/v2/image/Y29tLkVWU1BvcnR1Z2FsLlNvbWRhQmFpeGFTZXR1YmFsX2ljb25fMTUzMTAzODQwN18wNzY/icon.png?w=170&fakeurl=1&type=.png" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Som da Baixa Setubal - Radio
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/5506.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Classic FM - UK" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/LcaRwmxgF9.png" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Classic FM - UK
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/5517.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Limite - Porto" tvg-logo="https://cdn-profiles.tunein.com/s84216/images/logoq.png" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Radio Limite - Porto
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/5521.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Christmas Standards" tvg-logo="https://cdn-radiotime-logos.tunein.com/s89803q.png" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Christmas Standards
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/5512.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jazz FM - UK" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/qfCaS5rWTd.png" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Jazz FM - UK
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/5515.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jazz FM -  London" tvg-logo="https://cdn-radiotime-logos.tunein.com/s45300q.png" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Jazz FM -  London
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/5514.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kiss FM" tvg-logo="https://mytuner.global.ssl.fastly.net/media/radios-100px/n7E4K8hQ2e.png" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Kiss FM
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/5520.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bass Boosterz" tvg-logo="https://pbs.twimg.com/profile_images/921206904432594950/DxcR1WI8_400x400.jpg" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Bass Boosterz
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/5511.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Miami Beach Radio" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/7drt79sudps2.png" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Miami Beach Radio
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/5510.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NRJ - Paris" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/PzFcW6UF6J.png" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]NRJ - Paris
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/5509.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Florida Brazil" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/6fpvujgmwdes.png" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Radio Florida Brazil
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/5513.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Ritmos - Folclore" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/2xPT9kEV9M.png" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Rádio Ritmos - Folclore
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/5504.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Super Bock Super Rock" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/jagh6qh9sbyw.jpeg" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Rádio Super Bock Super Rock
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/5523.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Reggae Trade Radio" tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2015/08/1.FM-Reggae-Trade-Radio.jpg" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Reggae Trade Radio
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/5507.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="THE BEAT CHICAGO" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/ajbadt9qtt64.png" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]THE BEAT CHICAGO
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/5519.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jazz24" tvg-logo="https://cdn-radiotime-logos.tunein.com/s34682q.png" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Jazz24
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/5516.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Punto 7 Los Ángeles - Latino" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/wrfyvk76vsfg.png" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Radio Punto 7 Los Ángeles - Latino
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/5518.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Virgin Radio UK" tvg-logo="https://static.radio.net/images/broadcasts/54/d4/38755/1/c175.png" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Virgin Radio UK
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/7991.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio funchal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQhtVF6BUDDfA_KglITZcD14gGi5jGRMeqe3Mo8BTWm4Dlh1lWj" group-title="Radios", [B][COLOR blue]KodiTVR[/B][/COLOR] [B][COLOR ]  [/B][/COLOR]Radio funchal
+plugin://plugin.video.f4mTester/?name=[COLOR blue][B]KodiTVR[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://meon-pro.com:80/live/kitchen/kitchen/5778.m3u8

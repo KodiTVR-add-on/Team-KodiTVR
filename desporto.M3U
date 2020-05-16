@@ -1,0 +1,176 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name=" PORTUGAL " tvg-logo="https://cld.pt/dl/download/82931595-e131-4779-b1ec-91790c6ac4a1/PORTUGAL%202.jpg" group-title="",[B][COLOR yellowgreen]===== POR[/COLOR][COLOR yellow]TU[/COLOR][COLOR red]GAL =====[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=KodiTVR&streamtype=TSDOWNLOADER&amp;url=http://perfect.ddnsfree.com:8000/
+
+#EXTINF:-1 tvg-logo="https://dl-web.meocloud.pt/dlweb/K3PkFUUgBQn222qGZanapA/download/KodiTVR/PORTUGAL%202.jpg?public=82931595-e131-4779-b1ec-91790c6ac4a1" group-title="Portugal",[B][COLOR yellowgreen]Hino[/COLOR][COLOR yellow] Nacional[/COLOR][COLOR red] "A PORTUGUESA" [/B][/COLOR]
+https://upload.wikimedia.org/wikipedia/commons/5/58/A_Portuguesa.ogg
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/dced6044-624e-462e-9299-f08cc7c02a6a/actualizado.jpg" tvg-logo="" group-title="",[B][COLOR yellowgreen]===== [/COLOR][COLOR yellow]ACTUALIZADO EM 09.03.2020[/COLOR][COLOR yellowgreen] =====[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=KodiTVR&streamtype=HLSRETRY&amp;url=http://orbit-iptv.com:2500/live
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+
+#EXTINF:-1,[B][COLOR cyan]KodiTVR [/B][/COLOR]  SPORT TV+
+http://85.244.70.140:8000/play/a015
+#EXTINF:-1,[B][COLOR cyan]KodiTVR [/B][/COLOR]  Sport TV 1
+http://85.244.70.140:8000/play/a00r
+#EXTINF:-1,[B][COLOR cyan]KodiTVR [/B][/COLOR]  Sport TV 2
+http://85.244.70.140:8000/play/a00m
+#EXTINF:-1,[B][COLOR cyan]KodiTVR [/B][/COLOR]  TVCine 1 HD
+http://85.244.70.140:8000/play/a00y
+#EXTINF:-1,[B][COLOR cyan]KodiTVR [/B][/COLOR]  TVCine 4 HD
+http://85.244.70.140:8000/play/a00u
+#EXTINF:-1,[B][COLOR cyan]KodiTVR [/B][/COLOR]  TVI Reality
+http://85.244.70.140:8000/play/a01x
+#EXTINF:-1,[B][COLOR cyan]KodiTVR [/B][/COLOR]  Canal 11 HD
+http://85.244.70.140:8000/play/a00z
+#EXTINF:-1,[B][COLOR cyan]KodiTVR [/B][/COLOR]  Caça e Pesca
+http://85.244.70.140:8000/play/a00v
+#EXTINF:-1,[B][COLOR cyan]KodiTVR [/B][/COLOR]  Disney Junior
+http://85.244.70.140:8000/play/a019
+#EXTINF:-1,[B][COLOR cyan]KodiTVR [/B][/COLOR]  Eleven Sports 1
+http://85.244.70.140:8000/play/a01j
+#EXTINF:-1,[B][COLOR cyan]KodiTVR [/B][/COLOR]  FOX Movies
+http://85.244.70.140:8000/play/a014
+#EXTINF:-1,[B][COLOR cyan]KodiTVR [/B][/COLOR]  Hollywood
+http://85.244.70.140:8000/play/a00q
+#EXTINF:-1,[B][COLOR cyan]KodiTVR [/B][/COLOR]  ID Investigation Discovery
+http://85.244.70.140:8000/play/a01i
+#EXTINF:-1,[B][COLOR cyan]KodiTVR [/B][/COLOR]  NOS Studios HD
+http://85.244.70.140:8000/play/a011
+#EXTINF:-1,[B][COLOR cyan]KodiTVR [/B][/COLOR]  Nick Jr.
+http://85.244.70.140:8000/play/a020
+#EXTINF:-1,[B][COLOR cyan]KodiTVR [/B][/COLOR]  SIC Mulher
+http://85.244.70.140:8000/play/a013
+
+
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://logosandepg.selfip.com/LOGOS/PT/rtp1.png" group-title="Portugal", [B][COLOR cyan]KodiTVR[/B][/COLOR]   RTP 1
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/playlist.m3u8?isnpiration=10&rebase=on
+
+#EXTINF:-1 tvg-id="RTP1HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/RTP1_2016.png/200px-RTP1_2016.png" group-title="PORTUGAL", [B][COLOR cyan]KodiTVR[/B][/COLOR] [B][COLOR darkblue][/B][/COLOR]  RTP 1
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36?KodiTVR
+
+#EXTINF:-1 tvg-id="RTP2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Rtp2_2016_logo.png/250px-Rtp2_2016_logo.png" group-title="PORTUGAL", [B][COLOR cyan]KodiTVR[/B][/COLOR] [B][COLOR darkblue][/B][/COLOR]  RTP 2 
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/master.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36?magellan?KodiTVR
+
+
+#EXTINF:-1 tvg-id="SIC" tvg-logo="http://www.vantec.pt/25anos/images/sic.png" group-title="PORTUGAL", [B][COLOR cyan]KodiTVR[/B][/COLOR] [B][COLOR darkblue][/B][/COLOR]  SIC  [COLOR pink]Geobloqueado[/COLOR]
+http://live.impresa.pt/live/sic/sic540p.m3u8
+
+
+#EXTINF:-1 tvg-id="PORTO" tvg-logo="http://portocanal.sapo.pt/uploads/defaults/default-16x9.png" group-title=“DESPORTO”, [B][COLOR cyan]KodiTVR[/B][/COLOR] [B][COLOR darkblue][/B][/COLOR]  PORTO CANAL [COLOR red][/COLOR]
+http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://portocanal.sapo.pt/live
+
+#EXTINF:-1 tvg-id="SICN" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/f/fa/SICNWhite.png/170px-SICNWhite.png" group-title="PORTUGAL", [B][COLOR cyan]KodiTVR[/B][/COLOR] [B][COLOR darkblue][/B][/COLOR]  SIC NOTICIAS [COLOR pink]Geobloqueado[/COLOR] 
+http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
+
+#EXTINF:-1 tvg-id="RTP3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Rtp3.png/200px-Rtp3.png" group-title="PORTUGAL", [B][COLOR cyan]KodiTVR[/B][/COLOR] [B][COLOR darkblue][/B][/COLOR]  RTP 3 - INFORMAÇÃO
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/master.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36?KodiTVR
+
+#EXTINF:-1 tvg-id="RTPA" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpafrica.png?f=png&h=176" group-title="PORTUGAL", [B][COLOR cyan]KodiTVR[/B][/COLOR] [B][COLOR darkblue][/B][/COLOR]  RTP AFRICA
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/master.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36?KodiTVR
+
+#EXTINF:-1 tvg-id="RTPMAD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c0/RTP_Madeira_Short_2016.png/revision/latest?cb=20160410022340" group-title="PORTUGAL", [B][COLOR cyan]KodiTVR[/B][/COLOR] [B][COLOR darkblue][/B][/COLOR]  RTP MADEIRA
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/master.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36?KodiTVR
+
+#EXTINF:-1 tvg-id="RTPACO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/RTP_Açores_2016_(Reduced_Version).svg/220px-RTP_Açores_2016_(Reduced_Version).svg.png" group-title="PORTUGAL", [B][COLOR cyan]KodiTVR[/B][/COLOR] [B][COLOR darkblue][/B][/COLOR]  RTP AÇORES
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/master.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36?KodiTVR
+
+#EXTINF:-1 tvg-id="RTPi.pt" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpinternacional.png?f=png&h=176" group-title="PORTUGAL", [B][COLOR cyan]KodiTVR[/B][/COLOR] [B][COLOR darkblue][/B][/COLOR]  RTP INTERNACIONAL
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/master.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36?KodiTVR
+
+
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://yt3.ggpht.com/a-/AN66SAz4U-Qi9f_5AAEcvbxmw16xbUnmUp_0oQwpWQ=s900-mo-c-c0xffffffff-rj-k-no",[B][COLOR cyan]KodiTVR[/B][/COLOR]   Kuriakos Tv
+http://195.22.11.11:1935/ktv/ktv1/playlist.m3u8?isnpiration=10&rebase=on
+
+
+
+
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Teledifus%C3%A3o_de_Macau.png/250px-Teledifus%C3%A3o_de_Macau.png",[B][COLOR cyan]KodiTVR[/B][/COLOR]   Macau Tv
+http://live4.tdm.com.mo/ch2/_definst_//ch2.live/playlist.m3u8?isnpiration=10&rebase=on
+
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://imgs.sapo.pt/sapoid/id2/avtr/22a507a8a4ae6608d0ce0d5fcff9aa6f6b521021/140110651091152695.PNG",[B][COLOR cyan]KodiTVR[/B][/COLOR]   TV Mocambique
+http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8?isnpiration=10&rebase=on
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://imgs.sapo.pt/sapoid/id2/avtr/22a507a8a4ae6608d0ce0d5fcff9aa6f6b521021/140110651091152695.PNG",[B][COLOR cyan]KodiTVR[/B][/COLOR]   TV Mocambique Internacional
+http://196.28.226.121:1935/live/smil:Channel2.smil/chunklist_w831770220_b364000_slpor.m3u8?isnpiration=10&rebase=on
+
+
+
+
+
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://imagizer.imageshack.com/v2/217x134q90/r/924/O0Hrhv.png",[B][COLOR cyan]KodiTVR[/B][/COLOR]   Cacavision
+https://cdn039.fractalmedia.es/hls/caz_pt_med.m3u8?isnpiration=10&rebase=on
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://cdn.ricochet.com/wp-content/uploads/2016/02/52e8034c43da7.image_.png",[B][COLOR cyan]KodiTVR[/B][/COLOR]   Outdoor America
+https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8
+
+
+
+
+
+#EXTINF:-1,[B][COLOR cyan]KodiTVR[/B][/COLOR]   Fashion tv
+https://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/playlist.m3u8?isnpiration=10&rebase=on
+
+#EXTINF:-1 group-title="Portugal" tvg-logo="",[B][COLOR cyan]KodiTVR[/B][/COLOR]   Darcizzle Offshore Fishing 🇺🇸
+http://30a-tv.com/darcizzle.m3u8?isnpiration=10&rebase=on
+
+
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TVE_La1_-_Logo_2008.png/200px-TVE_La1_-_Logo_2008.png",[B][COLOR cyan]KodiTVR[/B][/COLOR]   La 1[esp]
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
+
+
+#EXTINF:-1 group-title="Portugal" tvg-logo="" group-title="",[B][COLOR cyan]KodiTVR[/B][/COLOR]   Cuatro [esp]
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_1.m3u8?isnpiration=10&rebase=on
+
+
+
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://www.multichannel.com/.image/t_share/MTU0MDYzODYwODA2NzIzMzIz/cookingchannellogoresizedjpg.jpg",[B][COLOR cyan]KodiTVR[/B][/COLOR]   Cooking Channel 
+http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8?isnpiration=10&rebase=on
+
+#EXTINF:-1 group-title="Portugal" tvg-logo="",[B][COLOR cyan]KodiTVR[/B][/COLOR]   Nat Geographic   
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="RTP3" tvg-logo="https://ptiptv.tk/logo?i=RTP3" group-title="News", [B][COLOR cyan]KodiTVR[/B][/COLOR] [B][COLOR yellow][/B][/COLOR] RTP 3
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtpn.smil/playlist.m3u8
+
+
+ 
+
+ 
+
+ 
+#EXTINF:-1 tvg-id="RTPI" tvg-logo="https://ptiptv.tk/logo?i=RTPI" group-title="Entertainment", [B][COLOR cyan]KodiTVR[/B][/COLOR] [B][COLOR yellow][/B][/COLOR] RTP Internacional
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="RTPMD" tvg-logo="https://ptiptv.tk/logo?i=RTPMD" group-title="Entertainment", [B][COLOR cyan]KodiTVR[/B][/COLOR] [B][COLOR yellow][/B][/COLOR] RTP Madeira
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+
+
+ 
+#EXTINF:-1 tvg-id="RTPAC" tvg-logo="https://ptiptv.tk/logo?i=RTPAC" group-title="Entertainment", [B][COLOR cyan]KodiTVR[/B][/COLOR] [B][COLOR yellow][/B][/COLOR] RTP Açores
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
+
+
+
+#EXTINF:-1,[B][COLOR aqua] KodiTVR[/B][/COLOR][B][COLOR gold][/B][/COLOR]  Teledifusão de Macau
+https://live4.tdm.com.mo/ch2/_definst_/ch2.live/chunklist_w811097116.m3u8
+ 
+
+#EXTINF:-1 tvg-logo="http://liveitkodi.com/Logos/CACAVISION.png" group-title="PORTUGAL", [B][COLOR cyan]KodiTVR[/B][/COLOR]  [B][COLOR yellow][/B][/COLOR]  Caçavision (Opt-1)
+https://cdn039.fractalmedia.es/hls/caz_pt_low.m3u8
+
+#EXTINF:-1 tvg-logo="http://liveitkodi.com/Logos/CACAVISION.png" group-title="PORTUGAL", [B][COLOR cyan]KodiTVR[/B][/COLOR]  [B][COLOR yellow][/B][/COLOR]  Caçavision (Opt-2)
+https://cdn039.fractalmedia.es/hls/caz_pt_med.m3u8
+
+#EXTINF:-1 tvg-logo="http://liveitkodi.com/Logos/CACAVISION.png" group-title="PORTUGAL", [B][COLOR cyan]KodiTVR[/B][/COLOR]  [B][COLOR yellow][/B][/COLOR]  Caçavision (Opt-3)
+https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
