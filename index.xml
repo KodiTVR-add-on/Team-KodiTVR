@@ -90,7 +90,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR yellow][B]KodiTVR-Rádio[/COLOR][/B]</name>
 <thumbnail>https://ia601503.us.archive.org/5/items/radio_20200511/r%C3%A1dio.png</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/KodiTVR-add-on/Team-KodiTVR/master/T-K-r%C3%A1dio.M3U</externallink>
 <fanart>https://ia601503.us.archive.org/5/items/radio_20200511/r%C3%A1dios.jpg</fanart>
 <info>KodiTVR</info>
 </channel>
