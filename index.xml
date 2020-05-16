@@ -80,34 +80,3 @@
 </channel>
 </channels>
 
-<item>
-<title>[COLOR blue][B]KodiTVR-Canais[/COLOR][/B]</title>
-<thumbnail>https://ia601406.us.archive.org/10/items/entreaqui.koditvr/sport.KodiTVR.jpg.jpg</thumbnail>
-<fanart>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/portugal.canais.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/KodiTVR-add-on/Canais/master/koditvrlist.M3U</externallink>
-</item>
-
-<item>
-<title>Filme 2</title>
-<thumbnail>https://ia801503.us.archive.org/22/items/filmes_20200119/filmes.png</thumbnail>
-<fanart>https://ia801406.us.archive.org/7/items/internacionais_202001/inter.fanart.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/AlexBarros74/AddonGrupoBarrosVR/master/filme2.xml</externallink>
-</item>
-
-<item>
-<title>Filme 3</title>
-<thumbnail>https://ia601406.us.archive.org/7/items/internacionais_202001/lan%C3%A7amentos.png</thumbnail>
-<fanart>https://ia801406.us.archive.org/7/items/internacionais_202001/inter.fanart.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/AlexBarros74/AddonGrupoBarrosVR/master/filme3.xml</externallink>
-</item>
-
-<item>
-<title>Filme 4</title>
-<thumbnail>https://ia601406.us.archive.org/7/items/internacionais_202001/lan%C3%A7amentos.png</thumbnail>
-<fanart>https://ia801406.us.archive.org/7/items/internacionais_202001/inter.fanart.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/AlexBarros74/AddonGrupoBarrosVR/master/filme3.xml</externallink>
-</item>
