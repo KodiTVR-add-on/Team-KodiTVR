@@ -5,8 +5,8 @@
 <channels>
 <channel>
 <name>[COLOR yellow][B][COLOR blue][B]=[/COLOR][/B]TV_PORTUGAL_ONLINE[COLOR blue][B]=[/COLOR][/B]</name>
-<thumbnail>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/tv.koditvr.png.png</thumbnail>
-<fanart>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/List.KodiTVR.jpg</fanart>
+<thumbnail>https://imgur.com/e8AbKJw.png</thumbnail>
+<fanart>https://imgur.com/ulJpQ3j.jpg</fanart>
 <link>ignora</link>
 <info>[COLOR yellow][B] Seja bem-vindo ao KodiTVR addon foi criado para divulgar e apoiar o uso do Kodi, um aplicativo que permite assistir a canais de televisão paga como eventos exclusivos ou canais de outros países através de streaming gratuito na Internet![/COLOR][/B]</info>
 <externallink>https://raw.githubusercontent.com/KodiTVR-add-on/Team-KodiTVR/master/alarme.txt</externallink>
@@ -18,9 +18,9 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 <channels>
 <channel>
 <name>[COLOR green][B]Hino nacional português-[/COLOR][/B][COLOR red][B](A Portuguesa)[/COLOR][/B]</name>
-<thumbnail>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/pt.KodiTVR.png</thumbnail>
+<thumbnail>https://imgur.com/eF2N8nF.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/KodiTVR-add-on/Team-KodiTVR/master/hino</externallink>
-<fanart>https://ia601502.us.archive.org/33/items/Cinema.movies/history.flag.pt.jpg</fanart>
+<fanart>https://imgur.com/CiPDDY0.jpg</fanart>
 <info>[COLOR yellow][B]KodiTVR, informa que para ver e ouvir o "HINO nacional português" tem que instalar o add-on Gdrive.[/COLOR][/B]</info>
 </channel>
 
@@ -29,9 +29,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR red][B]Vila Real-[/COLOR][/B][COLOR red][B](Trás-os-Montes e Alto Douro)[/COLOR][/B]</name>
-<thumbnail>https://ia601406.us.archive.org/10/items/entreaqui.koditvr/vr.koditvr.png</thumbnail>
+<thumbnail>https://imgur.com/R4FuEyf.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/KodiTVR-add-on/Team-KodiTVR/master/vila%20real</externallink>
-<fanart>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/vr.fanart.jpg</fanart>
+<fanart>https://imgur.com/eLZ0SV5.jpg</fanart>
 <info>[COLOR yellow][B]KodiTVR, informa que para ver as imagens/videos da Cidade Vila Real tem que instalar o add-on Gdrive.[/COLOR][/B]</info>
 </channel>
 
@@ -39,9 +39,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 <name>[COLOR blue][B]KodiTVR-Canais[/COLOR][/B]</name>
-<thumbnail>https://ia601406.us.archive.org/10/items/entreaqui.koditvr/sport.KodiTVR.jpg.jpg</thumbnail>
+<thumbnail>https://imgur.com/7EtB372.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/KodiTVR-add-on/Team-KodiTVR/master/koditvrlist-canais.M3U</externallink>
-<fanart>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/portugal.canais.jpg</fanart>
+<fanart>https://imgur.com/LpKNACe.jpg</fanart>
 <info>KodiTVR</info>
 </channel>
 
@@ -57,9 +57,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 <name>[COLOR blue][B]KodiTVR-Portugal 1[/COLOR][/B]</name>
-<thumbnail>https://ia801502.us.archive.org/33/items/Cinema.movies/tv.Portugal.png</thumbnail>
+<thumbnail>https://imgur.com/N5IsME2.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/KodiTVR-add-on/Team-KodiTVR/master/portugallist-0.M3U</externallink>
-<fanart>https://ia801502.us.archive.org/33/items/Cinema.movies/canais.fanart.jpg</fanart>
+<fanart>https://imgur.com/oeJiTtA.jpg</fanart>
 <info>KodiTVR</info>
 </channel>
 
@@ -68,9 +68,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 <name>[COLOR blue][B]KodiTVR-Portugal 2[/COLOR][/B]</name>
-<thumbnail>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/favorite.png</thumbnail>
+<thumbnail>https://imgur.com/Vpu9aa0.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/KodiTVR-add-on/Team-KodiTVR/master/portugallist-1.M3U</externallink>
-<fanart>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/muitos-canais-koditvr.jpg</fanart>
+<fanart>https://imgur.com/UZXgKxx.jpg</fanart>
 <info>KodiTVR</info>
 </channel>
 
@@ -78,9 +78,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 <name>[COLOR blue][B]KodiTVR-Desporto[/COLOR][/B]</name>
-<thumbnail>https://ia801406.us.archive.org/10/items/entreaqui.koditvr/icon-kodi.jpg</thumbnail>
+<thumbnail>https://imgur.com/mXSuwhu.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/KodiTVR-add-on/Team-KodiTVR/master/koditvr%20desporto.M3U</externallink>
-<fanart>https://ia601400.us.archive.org/3/items/fanart.update/Sports-all.jpg</fanart>
+<fanart>https://imgur.com/tAxSSTQ.jpg</fanart>
 <info>KodiTVR</info>
 </channel>
 
@@ -89,9 +89,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 <name>[COLOR yellow][B]KodiTVR-Rádio[/COLOR][/B]</name>
-<thumbnail>https://ia601503.us.archive.org/5/items/radio_20200511/r%C3%A1dio.png</thumbnail>
+<thumbnail>https://imgur.com/yFFqtsN.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/KodiTVR-add-on/Team-KodiTVR/master/T-K-r%C3%A1dio.M3U</externallink>
-<fanart>https://ia601503.us.archive.org/5/items/radio_20200511/r%C3%A1dios.jpg</fanart>
+<fanart>https://imgur.com/nfmRnsw.jpg</fanart>
 <info>KodiTVR</info>
 </channel>
 
